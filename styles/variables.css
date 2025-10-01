@@ -27,4 +27,7 @@
     --text-stroke-color: #fff;
     --main-color: #fff;
     --accent-color: #000;
+    --contour-color: #000;
+    --animation-fill-color: red;
+    --framing-color: red;
 }
