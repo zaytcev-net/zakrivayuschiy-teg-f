@@ -183,7 +183,7 @@
 
 .card__icon-button {
   border: none;
-  background-color: transparent;
+  background-color: var(--main-color);
   outline: 2px solid rgb(0 0 0 / 0);
   transition: outline 0.3s ease;
 }
@@ -193,11 +193,11 @@
 }
 
 .card__icon-button:focus-visible {
-  outline: 2px solid var(--accent-color);
+  outline: var(--accent-color);
 }
 
-.like-icon {
-  transform-origin: center center;
+.heart {
+  transform-origin: center;
 }
 
 .contour {
