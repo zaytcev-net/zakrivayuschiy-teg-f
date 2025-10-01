@@ -148,7 +148,7 @@
 .card__button {
   display: flex;
   justify-content: flex-end;
-  gap: 12px;
+  gap: 6px;
 }
 
 .button {
@@ -186,6 +186,8 @@
   background-color: var(--main-color);
   outline: 2px solid rgb(0 0 0 / 0);
   transition: outline 0.3s ease;
+  block-size: 38px;
+  padding: 0;
 }
 
 .card__icon-button:focus {
