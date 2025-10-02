@@ -1,12 +1,12 @@
 :root {
   /*fonts*/
   --font-family: "Inter-Variable";
-  --accent-font-family: "PressStart2P-Regular";
+  --accent-font-family: "PressStart2P";
   /*fonts-settings*/
   --font-weight-main-text: 410;
   --font-weight-title-text: 715;
   --main-font-size: 18px;
-  --second-font-size: 14px;
+  --substitute-font: 14px;
   --background-image: 
     repeating-linear-gradient(to right,#d3d3d3 0 2px,transparent 2px 4px),
     repeating-linear-gradient(to top, #d3d3d3 0 2px, transparent 2px 4px),
